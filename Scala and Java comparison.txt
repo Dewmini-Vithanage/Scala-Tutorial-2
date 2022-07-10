@@ -1,0 +1,5 @@
+Scala variables are immutable while Java variables are mutable by default.
+Scala supports lazy evaluation while Java doesn’t support lazy evaluation.
+Scala supports operator overloading while Java doesn’t support operator overloading.
+Scala is less readable because of nested code while Java is more readable.
+Scala doesn’t have static members while Java has static members.
